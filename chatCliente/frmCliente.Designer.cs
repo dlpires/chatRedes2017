@@ -1,6 +1,6 @@
 ﻿namespace chatCliente
 {
-    partial class Form1
+    partial class frmCliente
     {
         /// <summary>
         /// Required designer variable.
@@ -86,6 +86,7 @@
             this.btnConectar.TabIndex = 4;
             this.btnConectar.Text = "Conectar";
             this.btnConectar.UseVisualStyleBackColor = false;
+            this.btnConectar.Click += new System.EventHandler(this.btnConectar_Click);
             // 
             // panel1
             // 
@@ -111,6 +112,7 @@
             this.txtMensagem.Name = "txtMensagem";
             this.txtMensagem.Size = new System.Drawing.Size(265, 43);
             this.txtMensagem.TabIndex = 6;
+            this.txtMensagem.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMensagem_KeyPress);
             // 
             // btnEnviar
             // 
@@ -123,8 +125,9 @@
             this.btnEnviar.TabIndex = 7;
             this.btnEnviar.Text = "Enviar";
             this.btnEnviar.UseVisualStyleBackColor = false;
+            this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
-            // Form1
+            // frmCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -142,7 +145,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Name = "Form1";
+            this.Name = "frmCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chat - Cliente";
             this.panel1.ResumeLayout(false);

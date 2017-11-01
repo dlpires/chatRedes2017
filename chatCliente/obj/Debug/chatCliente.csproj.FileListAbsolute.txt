@@ -1,1 +1,11 @@
 C:\Users\julio\Desktop\chatCliente\chatCliente\bin\Debug\chatCliente.exe.config
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\bin\Debug\chatCliente.exe.config
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\bin\Debug\chatCliente.exe
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\bin\Debug\chatCliente.pdb
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.frmCliente.resources
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.Properties.Resources.resources
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.csproj.GenerateResource.Cache
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.exe
+C:\Users\rodri\Desktop\Chat-Cliente\chatRedes2017\chatCliente\obj\Debug\chatCliente.pdb
